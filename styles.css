@@ -1,0 +1,79 @@
+body {background-color: #131516 !important;}
+  body {color: #f7f7f7 !important;}
+.profile-class {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+    border-radius: 50%;
+    width:200px;
+    height:200px;
+    
+}
+
+.skillsRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 150px;
+}
+
+.html-class {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  display: inline-block;
+  left: 100px;
+  background-color: white;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+.css-class {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  display: inline-block;
+  left: 100px;
+  background-color: white;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+.JS-class {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 100px;
+  background-color: white;
+  margin-bottom: 2rem;
+}
+.jQuery-class {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 100px;
+  background-color: white;
+  margin-bottom: 2rem;
+  
+}
+.SQL-class {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 100px;
+  background-color: white;
+  margin-bottom: 2rem;
+  
+}
+.Cplusplus-class {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 100px;
+  background-color: white;
+  margin-bottom: 2rem;
+}
