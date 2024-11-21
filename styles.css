@@ -1,0 +1,55 @@
+body {background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);}
+  body {color: #ffffff !important;}
+.profile-class {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+    border-radius: 50%;
+    width:200px;
+    height:200px;
+    
+}
+
+ .html-icon {
+  display: flex;
+  align-items: center;
+  
+ }
+
+.css-icon {
+  display: flex;
+  align-items: center;
+}
+
+.js-icon {
+  display: flex;
+  align-items: center;
+}
+
+.languages {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  margin-right: 2rem;
+}
+
+.navbar-text {
+  color: #ffffff !important;
+}
+
+.skillTitle {
+  text-align: center;
+}
+
+.contactClass {
+  text-align: center;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
